@@ -1,0 +1,19 @@
+Pictures:
+
+1) Store profile pictures
+2) story art for begining
+
+Coding:
+
+
+$1) Add prices to buttons
+$2) Fix the pausing issue with restart
+$3) lower enemy spawn rate.
+$4) add a pause and death message upon death
+$5) add an innate object beside the player
+$6) add a text promt instruction upon game start
+$7) add a skip story button
+
+8) Upload game to game store for internl testing.
+
+

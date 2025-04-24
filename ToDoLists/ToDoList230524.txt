@@ -1,0 +1,12 @@
+Pictures:
+
+$1) story art for begining
+$2) Imporve visability of music icon
+
+Coding:
+
+$1) Rewrite story at begining.
+$2) Hide volume slider
+$3) Make a main Menu with contact info, background, start button, quit button.
+$4) Redrect the game over button to the start menu.
+

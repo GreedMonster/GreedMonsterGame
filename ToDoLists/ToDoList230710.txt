@@ -1,0 +1,14 @@
+Pictures:
+
+1) Unity ad button and restart button.
+2) Redo the start screen. Maybe add a monster with animation welcoming players
+3) animate opening story pictures
+8) end story mixed picture with animations
+
+
+Coding:
+
+1) Hook up unity ads
+2) Build and reupload with ads and improvements
+1) End story text
+2) Monster Index with unlockable  monster info pages.

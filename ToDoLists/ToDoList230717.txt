@@ -1,0 +1,27 @@
+Pictures:
+
+$*1) Unity ad button and restart button.
+$*2) Redo the start screen. Maybe add a monster with animation welcoming players
+$3) animate opening story pictures
+$4) end story mixed picture with animations
+$*5) change blood animation to not blood looking (Google Rules no blood)
+$6) Add animal parts to animal ending
+
+
+
+Coding:
+
+1) Hook up unity ads
+2) Build and reupload with ads and improvements
+3) End story text
+4) Monster Index with unlockable monster info pages.
+$*5) decrease ow noise when hurt, but not the visual.
+
+Other:
+
+$1) Rebuild backup from July 5th
+2) Get pictures for google play
+$3) Make a game trailer
+4) Add trailer to google play
+5) Add website to google play
+6) Add bank info to IronSource email

@@ -1,0 +1,15 @@
+Pictures:
+
+$1) enemy webs
+$2) player bioluminescence
+$3) enemy bioluminescence
+4) enemy antibiotics
+5) player antibiotics
+
+Coding:
+
+$1) Code camoflage ability.
+$2) Code bioluminecence
+$3) Code antibiotics
+4) code spore (need to do the brackey tower and bullet tutorial)
+5) code slime mold

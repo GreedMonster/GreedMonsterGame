@@ -1,0 +1,11 @@
+Pictures:
+
+$1) Complete enemy eye animations
+$2) PlayerMouth animations
+
+Coding:
+
+$1) Code events for mouth abilities.
+$2) Code events for toe abilities.
+$3) Code, and add a text display of plant, animal, and fungus winning scores.
+$4) Code and make 3 changing plant, animal, fungus menus in the same location to save space.

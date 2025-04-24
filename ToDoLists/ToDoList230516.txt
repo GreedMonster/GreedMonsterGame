@@ -1,0 +1,13 @@
+Pictures:
+
+
+$1) food1 spawner
+2) story art for begining
+
+Coding:
+
+$1) Add a Story scene and buttons for the begining.
+
+2) Create a tower that shoots enemies
+
+

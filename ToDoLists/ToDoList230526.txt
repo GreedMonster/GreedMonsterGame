@@ -1,0 +1,14 @@
+Pictures:
+
+$1) Flashlight
+2) 
+
+Coding:
+
+$1) Fix the SFX and music animations. (I believe the Sound Manager needs to look for the animations when it enters the scene.)
+$2) Change the timer to a stand alone timer
+$3) Change Moxie to Monster Points (MP)
+$4) Make a flashlight that doesn't get destroyed and shines a cone of light
+$5) Add a plain background and adjust light intensity and colors.
+6) Add touch controls to move around the play area.
+

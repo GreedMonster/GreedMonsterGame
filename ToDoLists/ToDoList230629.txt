@@ -1,0 +1,13 @@
+Pictures:
+
+$1) 10 min ending
+
+Coding:
+
+
+$1) camoflage all body parts
+2) random spawn enemy spawners when game starts
+$3) 10 min ending (instantiate falling objects (gravity on) that destroy objects when touched.
+4) End story text
+5) Monster Index with unlockable  monster info pages.
+$6) Time posted in 4 endings

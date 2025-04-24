@@ -1,0 +1,9 @@
+Pictures:
+
+1) ememy spore
+2) player spore projectile
+
+Coding:
+
+1) code spore (need to do the brackey tower and bullet tutorial)
+2) code slime mold

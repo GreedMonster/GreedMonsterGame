@@ -1,0 +1,13 @@
+Pictures:
+
+$1) enemy antibiotics
+$2) player antibiotics
+$3) spore Launcher
+$4) animate enemy Mycotoxin
+5) ememy spore
+6) player spore projectile
+
+Coding:
+
+1) code spore (need to do the brackey tower and bullet tutorial)
+2) code slime mold

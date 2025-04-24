@@ -1,0 +1,23 @@
+Pictures:
+
+$1) enemy web spawner
+2) enemy vine spawner
+$3) enemy camoflage
+4) player leaf chlorophyll
+5) multi ending
+6) animal ending
+7) plant ending
+8) fungus ending
+9) player bark
+10) enemy bark
+11) enemy fruit
+12) enemy vine
+13) player thorn
+$14) enemy toe spawner
+$15) animate enemy toe
+$16) enemy camoflage spawner
+$17) enemy mouth spawner
+
+Coding:
+
+1) triggers for 4 endings (muilt, animal, plant, fungus)

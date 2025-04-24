@@ -1,0 +1,14 @@
+Pictures:
+
+$1) playerToe animations
+$2) PlayerEyelid image and code
+$3) Draw a new background. (The cracked mud backgrund is too pixelated.)
+$4) Draw PlayerWeb
+$5) Draw PlayerExoskeleton
+$6) enemy exoskeleton
+
+Coding:
+
+$1) Code web ability.
+$2) Code exoskeleton ability.
+3) Code camoflage ability.

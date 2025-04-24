@@ -1,0 +1,10 @@
+Pictures:
+
+1) Animate monsters
+2) 
+
+Coding:
+
+$1) Limit / clamp camera boundries
+$2) make a varietey of enemies. Add the sprites that are made. Use a blank squarefor a spawn.
+

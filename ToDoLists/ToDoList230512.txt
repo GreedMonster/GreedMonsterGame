@@ -1,0 +1,20 @@
+Pictures:
+
+As buttons:
+$-lives
+$-money
+$-pause
+$-unpause
+$-SFX
+$-no SFX
+$-music
+$-no music
+$-volume handle
+
+As sprites:
+$-player
+
+$-enemy1
+-enemy1 spawner
+-food1
+food1 spawner

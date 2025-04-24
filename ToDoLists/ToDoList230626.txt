@@ -1,0 +1,17 @@
+Pictures:
+
+1) multi ending
+2) animal ending
+3) plant ending
+4) fungus ending
+5) enemy chlorophyll spawner
+6) enemy chlorophyll
+67) bark spawner
+
+Coding:
+
+$1) triggers for 4 endings (muilt, animal, plant, fungus)
+2) camoflage all body parts
+3) random spawn enemy spawners when game starts
+$4) Learn about memory leaks
+5) Fix possible Enemy Fruit memory issue from too many instantiating copies.

@@ -1,0 +1,23 @@
+Pictures:
+
+$1) Player menu action buttons need pictures
+2) Unity ad button and restart button.
+$3) Review and create all menu buttons
+$4) Make 2 visual cues for ablity upgrades
+
+Coding:
+
+1) End story text
+2) Monster Index with unlockable  monster info pages.
+$3) visual and audio clue when winning points are aquired.
+$4) visual and audio clue when lives are lost
+$5) decrease enemy spawning
+$6) Fix missing player body part that is a blank triangle
+8) Add a visual and audio prompt when not enough MP to buy abilities.
+$9) Player stat AND action icons are STILL cut off on the top and bottom of the screen. Find a way to scale them better. Maybe a blank icon on the top and bottom to force a blankspace.
+10) Hook up unity ads
+11) Build and reupload with ads and improvements
+$12) fix yellow offset winning buttons
+$13) add sanitized ending text
+$14) Sanitized ending visual clues
+15) Move the starting flashlight text to the flashlight

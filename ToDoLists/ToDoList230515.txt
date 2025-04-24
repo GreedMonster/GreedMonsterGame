@@ -1,0 +1,19 @@
+Pictures:
+
+$1) enemy1 spawner
+$2) food1
+3) food1 spawner
+$4) Change the pause button to look like a monster
+$5) Change the sound button to look like a monster
+$6) Change the music button to look like a monster and move more with all 8 frames.
+$7) Sync the changing timer icon to the time text.
+
+*) Do story art if tired of code.
+
+Coding:
+
+$1) Lower particle effect intensity to 0.5
+
+2) Create a tower that shoots enemies
+
+

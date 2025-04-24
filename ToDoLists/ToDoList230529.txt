@@ -1,0 +1,12 @@
+Pictures:
+
+$1) Draw scene background and visable boundries
+2) Animate enimies
+$3) Draw Arrow Icon
+
+Coding:
+
+$1) Change start message dissapearing from the timer
+2) Give monsters different movement and abilities
+3) Fix the SoundManager so that it finds the SFX and Music buttons when exiting and rentering the scene.
+

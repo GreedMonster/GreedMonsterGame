@@ -1,0 +1,15 @@
+Pictures:
+
+1) slimeMold projectile
+2) slime mold launcher
+3) enemy camoflage
+4) player leaf chlorophyll
+
+Coding:
+
+$1) code chlorophyll
+$2) code thorns
+$3) code vines
+$4) code bark
+$5) make a flashlight collider for the light
+$6) code fruit

@@ -1,0 +1,10 @@
+Pictures:
+
+1) Animate enimies
+
+
+Coding:
+
+1) Give monsters different movement and abilities
+2) Fix the SoundManager so that it finds the SFX and Music buttons when exiting and rentering the scene.
+

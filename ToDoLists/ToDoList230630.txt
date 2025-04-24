@@ -1,0 +1,13 @@
+Pictures:
+
+$1) Player Mycotoxin
+
+Coding:
+
+1) End story text
+2) Monster Index with unlockable  monster info pages.
+3) Put game up for testing
+$4) Shrink player vine
+$5) decrease enemy fruit spawning
+$6) Fix missing player body part that is a blank triangle
+$7) troubleshoot player thorns not working

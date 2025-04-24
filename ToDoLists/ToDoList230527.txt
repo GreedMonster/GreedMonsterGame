@@ -1,0 +1,9 @@
+Pictures:
+
+$1) Draw enemies
+2) 
+
+Coding:
+
+$1) Add touch controls to move around the play area.
+

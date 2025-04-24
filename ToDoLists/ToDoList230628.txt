@@ -1,0 +1,17 @@
+Pictures:
+
+$1) enemy chlorophyll spawner
+$2) enemy chlorophyll
+$3) bark spawner
+4) 10 min ending
+$5) enemy biolunenecence spawner
+$6) enemy antibiotic spawner
+
+Coding:
+
+
+1) camoflage all body parts
+2) random spawn enemy spawners when game starts
+3) 10 min ending (instantiate falling objects (gravity on) that destroy objects when touched. (tag Toddclorox)
+4) End story text
+5) Monster Index with unlockable  monster info pages.

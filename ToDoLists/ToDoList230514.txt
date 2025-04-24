@@ -1,0 +1,23 @@
+Pictures:
+
+1) enemy1 spawner
+2) food1
+3) food1 spawner
+$4) Replace money image with moxie image.
+$5) Time icon
+
+*) Do story art if tired of code.
+
+Coding:
+
+$1) Code the pause button so that it mutes audio when paused, but does not interfere with the music when unpaused.
+
+$2) Create an upgrade for increasing player light.
+
+$3) Connect Moxie to upgrades
+
+$4) Complete enemy and food particle effects.
+
+$5) Make a music play list.
+
+
